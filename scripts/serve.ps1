@@ -1,0 +1,1 @@
+Write-Host 'Open http://localhost:8080'; if(Get-Command python -ErrorAction SilentlyContinue){python -m http.server 8080}else{Write-Host 'Python is unavailable. Open index.html directly; all data is bundled.'}
