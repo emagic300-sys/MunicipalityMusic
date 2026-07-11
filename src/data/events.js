@@ -5598,6 +5598,34 @@
         "issues":  [
 
                    ]
+    },
+    {
+        "id":  "manual-20260711-washington-rev250",
+        "date":  "2026-07-11",
+        "start":  "17:00",
+        "end":  "21:00",
+        "name":  "REV 250 Celebration: Austin City Nights, Drone Show \u0026 Beer Garden",
+        "town":  "Washington Township",
+        "venue":  "Memorial Field",
+        "category":  "Community Festival / Live Music",
+        "genre":  null,
+        "rating":  null,
+        "dateNightScore":  null,
+        "familyScore":  null,
+        "cost":  "Free",
+        "outdoor":  true,
+        "weatherDependent":  null,
+        "bringChairs":  null,
+        "food":  "Beer garden, Uncle Louie G\u0027s Italian ice, cheeseburgers, hamburgers, hot dogs and soft drinks",
+        "parking":  "Parking at Bethany Community Center",
+        "notes":  "REV 250 Celebration from 5:00â€“9:00 PM. Free Austin City Nights concert from 7:15â€“8:45 PM, plus a drone show, bouncy houses for kids, library crafts, REV 250 museum, s\u0027mores and derby cars with the Scouts, commemorative mugs and gold anniversary coins while supplies last.",
+        "sourceType":  "Event flyer",
+        "sourceUrl":  null,
+        "verified":  true,
+        "updated":  "2026-07-11",
+        "issues":  [
+
+                   ]
     }
 ]
 ;
