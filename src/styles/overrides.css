@@ -1,3 +1,31 @@
 .shell {
   margin: -32px auto 60px;
 }
+
+.hero-search-button {
+  margin-top: 8px;
+}
+
+.search-zone {
+  scroll-margin-top: 16px;
+  margin-top: 24px;
+  padding: 22px;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 8px 26px #17374a10;
+}
+
+.search-zone h2 {
+  margin-top: 0;
+}
+
+.search-zone p {
+  margin: 0 0 14px;
+  color: var(--muted);
+}
+
+.search-zone .search {
+  max-width: none;
+  border: 1px solid var(--line);
+  box-shadow: none;
+}
